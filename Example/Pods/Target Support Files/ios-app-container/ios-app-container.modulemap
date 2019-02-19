@@ -1,0 +1,6 @@
+framework module ios_app_container {
+  umbrella header "ios-app-container-umbrella.h"
+
+  export *
+  module * { export * }
+}

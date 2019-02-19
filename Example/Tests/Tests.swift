@@ -1,5 +1,5 @@
 import XCTest
-import ios-app-container
+import ios_app_container
 
 class Tests: XCTestCase {
     

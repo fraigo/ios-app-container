@@ -1,0 +1,16 @@
+PODS:
+  - ios-app-container (0.1.0)
+
+DEPENDENCIES:
+  - ios-app-container (from `../`)
+
+EXTERNAL SOURCES:
+  ios-app-container:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ios-app-container: 39477208b96a9a4ba6c08b8a78939813b2634539
+
+PODFILE CHECKSUM: a086d5415efdd286c64d01262e284de06cfbfaec
+
+COCOAPODS: 1.5.3
